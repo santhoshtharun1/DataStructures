@@ -1,2 +1,2 @@
 # DataStructures
-Data Structures using java
+Data Structures Concepts implementing using java
